@@ -16,3 +16,5 @@ Solutions to the assignments of the [CPSC 540 Machine Learning course (2013)](ht
 [2.2 Entropy of a Gaussian Distribution](http://nbviewer.ipython.org/github/diktat/CPSC540machinelearning/blob/master/2.2 Entropy of a Gaussian Distribution.ipynb)
 
 [2.3 Collaborative Filtering for Movie Recommendation](http://nbviewer.ipython.org/github/diktat/CPSC540machinelearning/blob/master/2.3 Collaborative Filtering for Recommendation.ipynb)
+
+[3.1 Gradient and Hessian for logistic regression](http://nbviewer.ipython.org/github/diktat/CPSC540machinelearning/blob/master/3.1 Gradient and Hessian for logistic regression.ipynb)
