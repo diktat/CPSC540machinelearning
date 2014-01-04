@@ -14,3 +14,5 @@ Solutions to the assignments of the [CPSC 540 Machine Learning course (2013)](ht
 [2.1 Bias Variance Trade-off](http://nbviewer.ipython.org/github/diktat/CPSC540machinelearning/blob/master/2.1 Bias Variance Trade-off.ipynb)
 
 [2.2 Entropy of a Gaussian Distribution](http://nbviewer.ipython.org/github/diktat/CPSC540machinelearning/blob/master/2.2 Entropy of a Gaussian Distribution.ipynb)
+
+[2.3 Collaborative Filtering for Movie Recommendation](http://nbviewer.ipython.org/github/diktat/CPSC540machinelearning/blob/master/2.3 Collaborative Filtering for Recommendation.ipynb)
